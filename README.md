@@ -2,7 +2,9 @@
 
 ## Project overview
 
-This project analyzes...
+This project analyzes last-mile delivery operations in Excel using seven source files covering orders, payments, deliveries, stores, channels, drivers and hubs.
+
+The main goal was to understand order volume, completion, order value, delivery cycle time and operational data quality while keeping the analysis at one row per order.
 
 ## Tools used
 
@@ -41,7 +43,7 @@ Two source tables required special handling:
 
 I also checked duplicate keys, unmatched joins, negative duration values and extreme cycle-time records before using the results in the dashboard.
 
-## KPIResult
+## KEY KPIS
 
 | KPI | Result |
 | --- | ---: |
