@@ -16,7 +16,11 @@ The main goal was to understand order volume, completion, order value, delivery 
 
 ## Dataset
 
-The analysis covers **368,999 orders** from January to April 2021.
+Public dataset: *Delivery Center: Food & Goods orders in Brazil*
+
+The analysis, data preparation workflow, KPI design and dashboard were created by Muhammad Rizwan.
+
+The analysis covers 368,999 orders from January to April 2021.
 
 The source data includes:
 
