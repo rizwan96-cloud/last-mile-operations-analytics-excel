@@ -43,7 +43,9 @@ Two source tables required special handling:
 
 I also checked duplicate keys, unmatched joins, negative duration values and extreme cycle-time records before using the results in the dashboard.
 
-## KEY KPIS
+## KEY KPIs
+
+## Key KPIs
 
 | KPI | Result |
 | --- | ---: |
