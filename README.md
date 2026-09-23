@@ -45,8 +45,6 @@ I also checked duplicate keys, unmatched joins, negative duration values and ext
 
 ## KEY KPIs
 
-## Key KPIs
-
 | KPI | Result |
 | --- | ---: |
 | Total Orders | 368,999 |
