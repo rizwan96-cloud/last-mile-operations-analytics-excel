@@ -58,7 +58,7 @@ I also checked duplicate keys, unmatched joins, negative duration values and ext
 
 ## Dashboard
 
-![Last-Mile Operations Dashboard](Last_Mile_Operations_Dashboard.png)
+![Last-Mile Operations Dashboard](dashboard.png)
 
 The dashboard focuses on:
 
