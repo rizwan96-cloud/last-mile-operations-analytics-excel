@@ -64,19 +64,22 @@ The dashboard focuses on:
 
 - Monthly order volume
 - Channel concentration
-- Hourly demand pattern
+- Hourly demand patterns
 - Store-segment order mix
 - Delivery-cycle performance
 - Payment coverage
 
 ## Key findings
 
-- 352,020 of 368,999 orders finished, giving a 95.4% completion rate.
-- March had the highest monthly order volume with 112,223 orders.
-- FOOD PLACE accounted for the majority of channel volume.
-- Median cycle time was 42.18 minutes, while P90 was 83.17 minutes.
-- The large gap between median and mean cycle time showed that the distribution contains extreme outliers.
-- 18,665 orders did not match a payment record and 10,345 did not match a delivery record, so missing joins were kept visible rather than treated as zero.
+- 352,020 of 368,999 orders were completed, resulting in a 95.4% completion rate.
+- March recorded the highest monthly order volume with 112,223 orders, followed closely by April.
+- FOOD PLACE was the dominant ordering channel, contributing substantially more orders than any other channel.
+- Order demand showed clear time-of-day patterns, with major peaks around 15:00 and 22:00.
+- FOOD stores generated the vast majority of orders compared with the GOOD store segment.
+- Median delivery cycle time was 42.18 minutes, while the P90 cycle time reached 83.17 minutes, indicating that the slowest 10% of orders took considerably longer to complete.
+- Average delivered distance was 10.11 km.
+- 18,665 orders had no matching payment record, representing approximately 5.1% of all orders.
+- 10,345 orders had no matching delivery record. These unmatched records were retained as missing values rather than incorrectly treating them as zero.
 
 ## Workbook structure
 
